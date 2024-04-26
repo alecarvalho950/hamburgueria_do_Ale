@@ -15,8 +15,18 @@
 <li>Ao preencher o endereço e pressionar "Finalizar Pedido", o cliente será direcionado para o WhatsApp da Hamburgueria com uma mensagem pré-formatada contendo os itens escolhidos, suas quantidades, o preço total e o endereço de entrega.</li>
 </ul>
 <br>
-<h2>Capturas de Tela</h2>
-...
+<h2>Capturas de Tela</h2><br>
+<h3>Página inicial</h3>
+<img src="https://github.com/alecarvalho950/hamburgueria_do_Ale/blob/main/assets/Captura-de-tela.png" alt="Página inicial da Hamburgueria do Ale"><br>
+<h3>MENU de itens</h3>
+<img src="https://github.com/alecarvalho950/hamburgueria_do_Ale/blob/main/assets/Captura-de-tela-2.png" alt="Menu de itens da Hamburgueria"><br>
+<h3>Modal do Carrinho sem itens</h3>
+<img src="https://github.com/alecarvalho950/hamburgueria_do_Ale/blob/main/assets/Captura-de-tela-3.png" alt="Modal de Carrinho sem itens adicionados"><br>
+<h3>Modal do Carrinho com itens adicionados</h3>
+<img src="https://github.com/alecarvalho950/hamburgueria_do_Ale/blob/main/assets/Captura-de-tela-4.png" alt="Modal de Carrinho com itens adicionados"><br>
+<h3>Erro ao não preencher o campo endereço</h3>
+<img src="https://github.com/alecarvalho950/hamburgueria_do_Ale/blob/main/assets/Captura-de-tela-5.png" alt="Erro ao não preencher o campo de endereço"><br>
+
 <br>
 <h2>Como Usar</h2>
 <br>
