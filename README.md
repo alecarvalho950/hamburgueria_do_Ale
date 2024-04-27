@@ -48,8 +48,9 @@ Abra o arquivo index.html em seu navegador.</p>
 </ul>
 <br>
 <h2>Link para o site da Hamburgueria do Ale</h2>
-<h2>Autor</h2><br>
 <p>Para ver o site, basta clicar nesse <a href="https://hamburgueria-do-nfn0qbx56-alecarvalho950s-projects.vercel.app/">link</a>.</p>
+<br>
+<h2>Autor</h2><br>
 <p>Alejandro Carvalho, 2024</p>
 <br>
 
